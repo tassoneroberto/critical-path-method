@@ -5,6 +5,14 @@ Java application designed to solve the Critical Path Method (CPM) problem.
 
 https://en.wikipedia.org/wiki/Critical_path_method
 
+## Screens
+
+![](https://raw.githubusercontent.com/tassoneroberto/critical-path-method/master/screenshots/screenshot1.png)
+
+
+![](https://raw.githubusercontent.com/tassoneroberto/critical-path-method/master/screenshots/screenshot2.png)
+
+
 ## Installation
 Clone and change directory:
 ```
