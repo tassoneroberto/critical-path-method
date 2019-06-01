@@ -17,7 +17,7 @@ https://en.wikipedia.org/wiki/Critical_path_method
 Clone and change directory:
 ```
 git clone https://github.com/tassoneroberto/critical-path-method.git
-cd critical-path-method
+cd critical-path-method/critical-path-method
 
 ```
 (OPTION 1) Compile and run:
