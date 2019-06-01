@@ -14,3 +14,4 @@ critical-path-method/view/CriticalPathGUI$GraphPanel$MouseMotionHandler.class
 critical-path-method/view/EdgeView.class
 critical-path-method/view/Graphic.class
 critical-path-method/view/NodeView.class
+.DS_Store
